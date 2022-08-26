@@ -1,4 +1,4 @@
-## Mock PiCar-4WD
+## PiCar-4WD-Mock
 Do a simple mock of PiCar-4WD, so that we can write the code locally with PiCar-4WD library interfaces.
 
 ### Install
