@@ -143,7 +143,7 @@ class I2C(object):
         result = self._i2c_read_i2c_block_data(addr, memaddr, num)
         return result
 
-    def test():
-        a_list = [0x2d,0x64,0x0]
-        b = I2C()
-        b.send(a_list,0x14)
+def test():
+    a_list = [0x2d,0x64,0x0]
+    b = I2C()
+    b.send(a_list,0x14)
